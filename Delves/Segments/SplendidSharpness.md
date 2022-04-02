@@ -1,6 +1,8 @@
 [Back](..\Journal.md)
 # Order of Splendid Sharpness
 
+The order is made up of both members of the College of Creation (the smiths who make the swords) and the College of Swords (the warriors who use them).
+
 ### History of Splendid Sharpness
 
 _There was a time when the Kobold kingdoms were in a state of flux. Sorcerer warlords were ruling with an iron fist, spending the lives of our people in a series of self destructive wars battling for supremacy. It was a bad time. It was a particularly unsettled period in our history._
