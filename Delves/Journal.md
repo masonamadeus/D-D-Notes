@@ -8,7 +8,7 @@ ___
 ## Homewreckers
 - We stabled our lizards at the edge of town for a nominal fee.
 
-- In exchange for our services in [Bulok Pol](bulok.md) and rescuing the remaining survivors of Thrumming, Lugo not only paid us HANDSOMELY - but also provided us with [a wonderful home](Segments\homebase.md) to use as a base while in Delve Mora
+- In exchange for our services in [Bulok Pol](/bulok.md) and rescuing the remaining survivors of Thrumming, Lugo not only paid us HANDSOMELY - but also provided us with [a wonderful home](Segments/homebase.md) to use as a base while in Delve Mora
 
 - Moza and Wren offered (or were coerced, sort of) into staying in the home and working as housekeepers, as well as maintaining the community garden (Moza is quite the druid, and grows a hellishly delicious tomato)
 

@@ -1,4 +1,4 @@
-[Back](..\Journal.md)
+[Back](/Journal.md)
 # Our Home
 
 Our home is in the Looms, situated near the top of The Ribs in Delve Mora.
