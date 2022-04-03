@@ -17,7 +17,7 @@ A cozy neighborhood, full of incredibly talented artifices
 
 ## Clan Travell
 
-Clan Travell's leader is an incredibly mothering and wonderfully sweet person. She gave Pteromi some very high quality baked goods.
+Clan Travell's leader is Nemora, an incredibly mothering and wonderfully sweet person. She gave Pteromi some very high quality baked goods.
 
 ## Clan Palda
 

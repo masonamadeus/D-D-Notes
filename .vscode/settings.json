@@ -1,3 +1,4 @@
 {
-    "typewriterScrollMode.enable": false
+    "typewriterScrollMode.enable": false,
+    "workbench.settings.openDefaultKeybindings": true
 }
