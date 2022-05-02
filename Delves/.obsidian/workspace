@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "c426230965ae38c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cafd47bf750f2acd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/05-01-22.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8e55c40c7dc4c01",
+    "type": "split",
+    "children": [
+      {
+        "id": "81370e24dddbe614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "687667e7c5a9a132",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bf00075f3943881",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "500e30bae91e1a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "32e73d0c912ea5cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6a0572543889675",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/05-01-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cafd47bf750f2acd",
+  "lastOpenFiles": [
+    "Sessions/05-01-22.md",
+    "Sessions/04-16-22.md",
+    "Sessions/04-02-22.md",
+    "Sessions/04-24-22.md",
+    "Sessions/03-26-22.md",
+    "04-12-22.md",
+    "Journal.md"
+  ]
+}
